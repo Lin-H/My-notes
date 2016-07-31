@@ -3,8 +3,8 @@
  */
 .highlight {
     background: #fff;
-    @extend %vertical-rhythm;
-
+    margin-bottom: $spacing-unit / 2;
+    font-family: $base-font-family;
     .highlighter-rouge & {
       background: #eef;
     }
