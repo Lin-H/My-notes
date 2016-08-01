@@ -1,0 +1,16 @@
+---
+title: Tool
+date: '2016-08-01 20:00:16'
+layout: note
+order: 3
+---
+
+[`howler.js`](https://howlerjs.com/) Audio library for the modern web.
+功能很强且不依赖其他库
+![]({{ site.baseurl }}/assets/images/QQ截图20160731233050.png)
+
+[`parallax`](https://github.com/wagerfield/parallax)
+视差库，没什么好解释的了
+
+[`Bliss`](http://blissfuljs.com/)
+轻量的js库，用来编写接近原生的代码，主要是对原生的一些方法的封装，所以很轻量也很快

@@ -4,8 +4,17 @@ layout: default
 
 <div class="home">
   <ul class="post-list">
-    {% for post in site.posts %}
-        {{ content }}
+    {% assign sortpost = site.posts | sort: 'order' %}
+    {% for post in sortpost %}
+      <article class="note" itemscope itemtype="http://schema.org/BlogPosting">
+        <header class="note-header">
+          <h1 class="note-title" itemprop="name headline">{{ post.title }}</h1>
+          <p class="note-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></p>
+        </header>
+        <div class="post-content" itemprop="articleBody">
+          {{ post.content }}
+        </div>
+      </article>
     {% endfor %}
   </ul>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

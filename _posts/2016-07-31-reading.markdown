@@ -1,0 +1,9 @@
+---
+title: Reading
+date: '2016-07-31 18:50:00'
+layout: note
+order: 1
+---
+
+- [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes)
+- [Google's QUIC protocol: moving the web from TCP to UDP](https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp/)
