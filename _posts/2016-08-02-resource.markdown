@@ -6,3 +6,4 @@ order: 4
 ---
 
 - [`Unsplash It`](https://unsplash.it/) Beautiful placeholders using images from [unsplash](https://unsplash.com/) 这个网站可以提供随机的图片，可以指定大小和简单的图片处理，免费而且速度快，简直完美！
+- [`Rust Books`](https://github.com/sger/RustBooks) 一些学习Rust的电子书

@@ -5,9 +5,12 @@ layout: note
 order: 1
 ---
 
+- [hidden treasures of the rust ecosystems](https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html)
+- [for loops in Rust](http://xion.io/post/code/rust-for-loop.html)
 - [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes)
 - [webp support](https://optimus.keycdn.com/support/webp-support/)
 - [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
 - [A COMPREHENSIVE GUIDE TO FONT LOADING STRATEGIES](https://www.zachleat.com/web/comprehensive-webfonts)
 - [Front-End Development in an Internet of Things World](https://www.sitepoint.com/the-future-of-the-web-in-an-internet-of-things-world/)
+
 - <del>[Google's QUIC protocol: moving the web from TCP to UDP](https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp/)</del>
