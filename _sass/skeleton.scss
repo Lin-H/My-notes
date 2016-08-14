@@ -24,3 +24,52 @@
 @import "modules/tables";
 @import "modules/spacing";
 @import "modules/media-queries";
+
+.layer {
+    margin: -40px;
+}
+header.site-header {
+    position: fixed;
+    z-index: -1;
+}
+div.page-content {
+    padding-top: 700px;
+    .wrapper {
+        background-color: #fbfbfb;
+        border-radius: 16px;
+    }
+}
+footer.site-footer {
+    background-color: #fbfbfb;
+    height: 81px;
+}
+
+@include media-query(1100px) {
+    div.page-content {
+        padding-top: 500px;
+    }
+    .layer {
+        img {
+            max-width: 200%;
+            transform: translate(-23.6%, -10%);
+        }
+    }
+}
+
+@include media-query(1100px) {
+    div.page-content {
+        .wrapper {
+            border-radius: 0;
+            margin-bottom: -60px;
+        }
+    }
+    footer.site-footer {
+        height: 160px;
+    }
+}
+
+@include media-query(464px) {
+    div.page-content {
+        padding-top: 450px;
+    }
+}

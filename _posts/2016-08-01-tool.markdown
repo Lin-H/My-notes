@@ -14,3 +14,5 @@ order: 3
 
 [`Bliss`](http://blissfuljs.com/)
 轻量的js库，用来编写接近原生的代码，主要是对原生的一些方法的封装，所以很轻量也很快
+
+[`lightgallery.js`](https://github.com/sachinchoolur/lightgallery.js) Full featured JavaScript image & video gallery 最喜欢无其他依赖的库了！
