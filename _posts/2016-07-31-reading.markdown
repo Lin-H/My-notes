@@ -2,7 +2,7 @@
 title: Reading
 date: '2016-08-14 23:52:36'
 layout: note
-order: 1
+order: 100
 ---
 
 - [HTML5 手势检测原理和实现](http://qianduan.guru/2016/08/13/gesture_detection_in_html5/)
