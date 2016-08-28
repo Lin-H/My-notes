@@ -1,10 +1,11 @@
 ---
 title: Reading
-date: '2016-08-14 23:52:36'
+date: '2016-08-17 22:54:00'
 layout: note
 order: 100
 ---
 
+- [It's The Future](https://circleci.com/blog/its-the-future/)
 - [HTML5 手势检测原理和实现](http://qianduan.guru/2016/08/13/gesture_detection_in_html5/)
 - [hidden treasures of the rust ecosystems](https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html)
 - [for loops in Rust](http://xion.io/post/code/rust-for-loop.html)
