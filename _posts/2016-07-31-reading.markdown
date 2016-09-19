@@ -5,6 +5,7 @@ layout: note
 order: 100
 ---
 
+- [Music theory for nerds](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/)
 - [Learning systems programming with Rust](http://jvns.ca/blog/2016/09/11/rustconf-keynote/) 就是喜欢看Rust的文章！
 - [It's The Future](https://circleci.com/blog/its-the-future/)
 - [HTML5 手势检测原理和实现](http://qianduan.guru/2016/08/13/gesture_detection_in_html5/)
