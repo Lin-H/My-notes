@@ -5,5 +5,6 @@ layout: note
 order: 201
 ---
 
+- [snabbdom virtual DOM](https://github.com/snabbdom/snabbdom)
 - [WebMonkeys](https://github.com/MaiaVictor/WebMonkeys) Massively parallel GPU programming on JavaScript made simple and clean.
 - [in-view](https://github.com/camwiegert/in-view) Get notified when a DOM element enters or exits the viewport.
